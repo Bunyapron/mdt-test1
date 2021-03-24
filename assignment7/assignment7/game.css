@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Hello";
+    src: url('hello-webfont.woff');
+}
+
+body {
+    background-color: #F6EEE0;
+}
+
+#game-container {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#game-layer {
+    margin-top: -620px;
+    position: relative;
+    width: 520px;
+    height: 505px;
+    border-radius: 10px;
+    background-color: #c4ae98;
+    border: 5px solid #69533d;
+}
+
+.square {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border: 3px solid #ebe6e1;
+}
+
+.red {
+    background-color: rgb(216, 87, 87);
+}
+
+.blue {
+    background-color: rgb(87, 87, 201);
+}
+
+.green {
+    background-color: rgb(109, 216, 109);
+}
+
+fieldset {
+    padding-bottom: 650px;
+    border: none;
+    background-color: #A2805D;
+    border-radius: 10px;
+    text-align: center;
+    color: #d4cfc9;
+    font-size: 25px;
+}
+
+legend {
+    font-family: 'Hello';
+    font-size: 90px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(80, 66, 47);
+    text-shadow: 6px 0 #ebd9c9;
+}
+
+input[type=text] {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px;
+    font-size: 15px;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 10%;
+    background-color: #d3c0ac;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+}

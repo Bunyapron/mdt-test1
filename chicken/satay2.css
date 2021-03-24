@@ -1,0 +1,221 @@
+.header {
+    background-image: url("chicken2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 1213px;
+    display: block;
+    /* padding: auto; */
+    /* background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    margin: auto;
+    vertical-align: middle; */
+}
+
+.header_area {
+    padding: auto;
+    /* padding-top: 260px;
+    text-align: center;
+    color: #fff;
+    margin: auto;
+    padding: 20px;
+    width: 900px; */
+}
+
+.header_area h1 {
+    padding-top: 260px;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    /* padding-top: 260px;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: normal;
+    margin: auto;
+    text-align: center; */
+}
+
+.header_area p {
+    color: white;
+    margin-top: 5px;
+    font-size: 23spx;
+    text-align: center;
+}
+
+div.info {
+    margin: auto;
+    color: white;
+    background-color: #252525;
+    border: 1px solid #252525;
+    opacity: 0.6;
+    background-attachment: fixed;
+}
+
+#logo1 {
+    background-attachment: fixed;
+    padding-top: 0.5cm;
+    width: 20%;
+}
+
+.info1_pic {
+    text-align: center;
+    font-size: 20px;
+}
+
+.info1_pic h1 {
+    text-decoration: underline;
+}
+
+table,
+th {
+    margin: auto;
+    text-align: center;
+    width: auto;
+    font-size: 20px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 20px;
+}
+
+#logo2 {
+    background-attachment: fixed;
+    padding-top: 0.5cm;
+    width: 20%;
+}
+
+.info4_pic {
+    text-align: center;
+    font-size: 20px;
+}
+
+.info4_pic h1 {
+    text-decoration: underline;
+}
+
+.text1 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text1:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text2 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text2:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text3 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text3:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text4 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text4:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text5 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text5:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text6 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text6:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text7 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text7:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.text8 {
+    font-size: 12pt;
+    transition: width 1s, height 1s;
+    transition: 0.3s;
+    text-align: center;
+}
+
+.text8:hover {
+    font-size: 16pt;
+    text-align: center;
+    color: rgb(185, 105, 0);
+}
+
+.photo {
+    text-align: center;
+}
+
+.div_photo {
+    border: 10px solid white;
+    width: 450px;
+    display: inline-block;
+}
+
+#photo_pic {
+    width: 100%;
+    opacity: 0.5;
+    display: flex;
+}
+
+#photo_pic:hover {
+    opacity: 1.0;
+    display: flex;
+}

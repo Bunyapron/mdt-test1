@@ -1,0 +1,72 @@
+body {
+    background-color: #F6EEE0;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+#topic1 {
+    border: 2px solid black;
+    background-color: #A2805D;
+    border-radius: 8px;
+    width: 40%;
+    height: 70px;
+}
+
+#comment1 {
+    border: 2px solid black;
+    background-color: #A2805D;
+    border-radius: 8px;
+    width: 40%;
+    height: 70px;
+}
+
+#comment2 {
+    border: 2px solid black;
+    background-color: #A2805D;
+    border-radius: 8px;
+    width: 40%;
+    height: 70px;
+}
+
+#text1 {
+    border: 2px solid black;
+    background-color: #cab8a5;
+    border-radius: 8px;
+    width: 25%;
+    height: 120px;
+}
+
+.post {
+    background-color: #a7ad88;
+    border: none;
+    color: rgb(0, 0, 0);
+    /* padding: 15px 32px; */
+    text-align: center;
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 20px;
+    margin: 3px 2px;
+    /* cursor: pointer; */
+}
+
+input[type=button]:hover {
+    background-color: rgb(29, 95, 70);
+}
+
+.clear {
+    background-color: rgb(243, 118, 96);
+    border: none;
+    color: rgb(0, 0, 0);
+    /* padding: 15px 32px; */
+    text-align: center;
+    /* text-decoration: none; */
+    display: inline-block;
+    font-size: 20px;
+    margin: 3px 2px;
+    /* width: 100px; */
+    /* cursor: pointer; */
+}
+
+input[type=button2]:hover {
+    background-color: rgb(223, 70, 43);
+}
